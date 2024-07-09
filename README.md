@@ -19,9 +19,8 @@ Este trabajo investiga la aplicación del Aprendizaje por Refuerzo Profundo (DRL
 
 - **Unity Warehouse Assets**: [Unity Asset Store](https://assetstore.unity.com/packages/3d/environments/industrial/unity-warehouse-276394)
 
-1. Crear un nuevo proyecto en Unity.
-2. Descargar e importar el asset *UnityWarehouseSceneHDRP*.
-3. Configurar el renderizado HDRP en *Edit -> Project Settings -> Graphics*.
+1. Descargar e importar el asset *UnityWarehouseSceneHDRP*.
+2. Configurar el renderizado HDRP en *Edit -> Project Settings -> Graphics*.
 
 ### Configuración del entorno de trabajo
 
