@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Agent
+  - Building
+  - Floor
+  - Wall
+  - Goal
+  - Pedestal
+  - Shelf
+  - Vehicle
+  - Worker
+  - Trolley
+  - Object
+  - DropZone
+  - Pedestal_Leg
+  - Pillar
+  - Other
+  - Restart
+  - Package
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Wall
+  - Goal
+  - Pedestals
+  - Shelf
+  - Trolley
+  - DropZone
+  - Worker
+  - Pillar
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

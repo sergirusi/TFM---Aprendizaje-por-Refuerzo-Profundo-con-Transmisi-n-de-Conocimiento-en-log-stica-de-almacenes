@@ -1,0 +1,320 @@
+[INFO] Parameter 'lesson' is in lesson 'Lesson_1' and has value 'Float: value=1.1'.
+[INFO] AgentTesting. Step: 25000. Time Elapsed: 72.182 s. Mean Reward: -1.017. Std of Reward: 0.041. Training.
+[INFO] AgentTesting. Step: 50000. Time Elapsed: 119.869 s. Mean Reward: -0.950. Std of Reward: 0.143. Training.
+[INFO] AgentTesting. Step: 75000. Time Elapsed: 168.211 s. Mean Reward: -0.849. Std of Reward: 0.238. Training.
+[INFO] AgentTesting. Step: 100000. Time Elapsed: 211.213 s. Mean Reward: -0.639. Std of Reward: 0.114. Training.
+[INFO] AgentTesting. Step: 125000. Time Elapsed: 253.465 s. Mean Reward: -0.660. Std of Reward: 0.155. Training.
+[INFO] AgentTesting. Step: 150000. Time Elapsed: 295.010 s. Mean Reward: -0.618. Std of Reward: 0.158. Training.
+[INFO] AgentTesting. Step: 175000. Time Elapsed: 337.200 s. Mean Reward: -0.555. Std of Reward: 0.189. Training.
+[INFO] AgentTesting. Step: 200000. Time Elapsed: 382.112 s. Mean Reward: -0.551. Std of Reward: 0.210. Training.
+[INFO] AgentTesting. Step: 225000. Time Elapsed: 424.400 s. Mean Reward: -0.761. Std of Reward: 0.169. Training.
+[INFO] AgentTesting. Step: 250000. Time Elapsed: 467.153 s. Mean Reward: -0.705. Std of Reward: 0.117. Training.
+[INFO] AgentTesting. Step: 275000. Time Elapsed: 506.761 s. Mean Reward: -0.629. Std of Reward: 0.140. Training.
+[INFO] AgentTesting. Step: 300000. Time Elapsed: 549.550 s. Mean Reward: -0.536. Std of Reward: 0.187. Training.
+[INFO] AgentTesting. Step: 325000. Time Elapsed: 589.316 s. Mean Reward: -0.474. Std of Reward: 0.213. Training.
+[INFO] AgentTesting. Step: 350000. Time Elapsed: 631.204 s. Mean Reward: -0.297. Std of Reward: 0.243. Training.
+[INFO] AgentTesting. Step: 375000. Time Elapsed: 675.862 s. Mean Reward: -0.254. Std of Reward: 0.261. Training.
+[INFO] AgentTesting. Step: 400000. Time Elapsed: 718.259 s. Mean Reward: 0.013. Std of Reward: 0.375. Training.
+[INFO] AgentTesting. Step: 425000. Time Elapsed: 765.033 s. Mean Reward: 0.011. Std of Reward: 0.402. Training.
+[INFO] AgentTesting. Step: 450000. Time Elapsed: 803.916 s. Mean Reward: 0.167. Std of Reward: 0.405. Training.
+[INFO] AgentTesting. Step: 475000. Time Elapsed: 848.101 s. Mean Reward: 0.141. Std of Reward: 0.370. Training.
+[INFO] AgentTesting. Step: 500000. Time Elapsed: 892.712 s. Mean Reward: 0.060. Std of Reward: 0.326. Training.
+[INFO] Exported results\complete_drl_v5\AgentTesting\AgentTesting-499956.onnx
+[INFO] AgentTesting. Step: 525000. Time Elapsed: 931.182 s. Mean Reward: -0.069. Std of Reward: 0.314. Training.
+[INFO] AgentTesting. Step: 550000. Time Elapsed: 974.508 s. Mean Reward: 0.033. Std of Reward: 0.352. Training.
+[INFO] AgentTesting. Step: 575000. Time Elapsed: 1012.342 s. Mean Reward: -0.055. Std of Reward: 0.413. Training.
+[INFO] AgentTesting. Step: 600000. Time Elapsed: 1056.458 s. Mean Reward: 0.140. Std of Reward: 0.408. Training.
+[INFO] AgentTesting. Step: 625000. Time Elapsed: 1094.281 s. Mean Reward: -0.039. Std of Reward: 0.398. Training.
+[INFO] AgentTesting. Step: 650000. Time Elapsed: 1136.909 s. Mean Reward: -0.119. Std of Reward: 0.411. Training.
+[INFO] AgentTesting. Step: 675000. Time Elapsed: 1175.451 s. Mean Reward: -0.160. Std of Reward: 0.386. Training.
+[INFO] AgentTesting. Step: 700000. Time Elapsed: 1218.233 s. Mean Reward: -0.153. Std of Reward: 0.406. Training.
+[INFO] AgentTesting. Step: 725000. Time Elapsed: 1256.240 s. Mean Reward: 0.011. Std of Reward: 0.539. Training.
+[INFO] AgentTesting. Step: 750000. Time Elapsed: 1296.182 s. Mean Reward: 0.104. Std of Reward: 0.493. Training.
+[INFO] AgentTesting. Step: 775000. Time Elapsed: 1338.011 s. Mean Reward: 0.142. Std of Reward: 0.456. Training.
+[INFO] AgentTesting. Step: 800000. Time Elapsed: 1377.569 s. Mean Reward: -0.083. Std of Reward: 0.440. Training.
+[INFO] AgentTesting. Step: 825000. Time Elapsed: 1418.784 s. Mean Reward: 0.165. Std of Reward: 0.399. Training.
+[INFO] AgentTesting. Step: 850000. Time Elapsed: 1457.645 s. Mean Reward: 0.094. Std of Reward: 0.422. Training.
+[INFO] AgentTesting. Step: 875000. Time Elapsed: 1499.819 s. Mean Reward: 0.295. Std of Reward: 0.397. Training.
+[INFO] AgentTesting. Step: 900000. Time Elapsed: 1537.873 s. Mean Reward: 0.219. Std of Reward: 0.333. Training.
+[INFO] AgentTesting. Step: 925000. Time Elapsed: 1577.362 s. Mean Reward: 0.097. Std of Reward: 0.454. Training.
+[INFO] AgentTesting. Step: 950000. Time Elapsed: 1619.321 s. Mean Reward: -0.016. Std of Reward: 0.285. Training.
+[INFO] AgentTesting. Step: 975000. Time Elapsed: 1657.576 s. Mean Reward: -0.044. Std of Reward: 0.360. Training.
+[INFO] AgentTesting. Step: 1000000. Time Elapsed: 1699.569 s. Mean Reward: 0.083. Std of Reward: 0.403. Training.
+[INFO] Exported results\complete_drl_v5\AgentTesting\AgentTesting-999966.onnx
+[INFO] AgentTesting. Step: 1025000. Time Elapsed: 1738.098 s. Mean Reward: -0.461. Std of Reward: 0.196. Training.
+[INFO] AgentTesting. Step: 1050000. Time Elapsed: 1780.568 s. Mean Reward: -0.338. Std of Reward: 0.261. Training.
+[INFO] AgentTesting. Step: 1075000. Time Elapsed: 1819.589 s. Mean Reward: -0.164. Std of Reward: 0.338. Training.
+[INFO] AgentTesting. Step: 1100000. Time Elapsed: 1857.976 s. Mean Reward: -0.152. Std of Reward: 0.484. Training.
+[INFO] AgentTesting. Step: 1125000. Time Elapsed: 1900.131 s. Mean Reward: -0.053. Std of Reward: 0.319. Training.
+[INFO] AgentTesting. Step: 1150000. Time Elapsed: 1939.120 s. Mean Reward: -0.010. Std of Reward: 0.364. Training.
+[INFO] AgentTesting. Step: 1175000. Time Elapsed: 1981.499 s. Mean Reward: -0.060. Std of Reward: 0.434. Training.
+[INFO] AgentTesting. Step: 1200000. Time Elapsed: 2021.789 s. Mean Reward: -0.007. Std of Reward: 0.432. Training.
+[INFO] AgentTesting. Step: 1225000. Time Elapsed: 2063.193 s. Mean Reward: 0.063. Std of Reward: 0.472. Training.
+[INFO] AgentTesting. Step: 1250000. Time Elapsed: 2102.987 s. Mean Reward: 0.275. Std of Reward: 0.442. Training.
+[INFO] AgentTesting. Step: 1275000. Time Elapsed: 2142.191 s. Mean Reward: 0.498. Std of Reward: 0.398. Training.
+[INFO] AgentTesting. Step: 1300000. Time Elapsed: 2183.815 s. Mean Reward: 0.701. Std of Reward: 0.334. Training.
+[INFO] AgentTesting. Step: 1325000. Time Elapsed: 2223.840 s. Mean Reward: 0.800. Std of Reward: 0.494. Training.
+[INFO] AgentTesting. Step: 1350000. Time Elapsed: 2266.642 s. Mean Reward: 0.838. Std of Reward: 0.562. Training.
+[INFO] AgentTesting. Step: 1375000. Time Elapsed: 2305.620 s. Mean Reward: 0.779. Std of Reward: 0.384. Training.
+[INFO] Parameter 'lesson' is in lesson 'Lesson_2' and has value 'Float: value=1.2'.
+[INFO] AgentTesting. Step: 1400000. Time Elapsed: 2351.091 s. Mean Reward: 0.752. Std of Reward: 0.685. Training.
+[INFO] AgentTesting. Step: 1425000. Time Elapsed: 2392.464 s. Mean Reward: 0.695. Std of Reward: 0.568. Training.
+[INFO] AgentTesting. Step: 1450000. Time Elapsed: 2435.893 s. Mean Reward: 1.074. Std of Reward: 0.521. Training.
+[INFO] AgentTesting. Step: 1475000. Time Elapsed: 2480.965 s. Mean Reward: 0.932. Std of Reward: 0.556. Training.
+[INFO] Parameter 'lesson' is in lesson 'Lesson_3' and has value 'Float: value=1.3'.
+[INFO] AgentTesting. Step: 1500000. Time Elapsed: 2520.498 s. Mean Reward: 0.926. Std of Reward: 0.596. Training.
+[INFO] Exported results\complete_drl_v5\AgentTesting\AgentTesting-1499995.onnx
+[INFO] AgentTesting. Step: 1525000. Time Elapsed: 2562.542 s. Mean Reward: 0.609. Std of Reward: 0.555. Training.
+[INFO] AgentTesting. Step: 1550000. Time Elapsed: 2602.514 s. Mean Reward: 1.034. Std of Reward: 0.610. Training.
+[INFO] Parameter 'lesson' is in lesson 'Lesson_4' and has value 'Float: value=1.4'.
+[INFO] AgentTesting. Step: 1575000. Time Elapsed: 2649.000 s. Mean Reward: 1.325. Std of Reward: 0.831. Training.
+[INFO] AgentTesting. Step: 1600000. Time Elapsed: 2692.007 s. Mean Reward: 1.461. Std of Reward: 0.881. Training.
+[INFO] AgentTesting. Step: 1625000. Time Elapsed: 2738.865 s. Mean Reward: 1.689. Std of Reward: 1.014. Training.
+[INFO] AgentTesting. Step: 1650000. Time Elapsed: 2787.487 s. Mean Reward: 2.264. Std of Reward: 0.697. Training.
+[INFO] AgentTesting. Step: 1675000. Time Elapsed: 2836.302 s. Mean Reward: 1.947. Std of Reward: 1.137. Training.
+[INFO] Parameter 'lesson' is in lesson 'Lesson_5' and has value 'Float: value=1.5'.
+[INFO] AgentTesting. Step: 1700000. Time Elapsed: 2888.823 s. Mean Reward: 2.254. Std of Reward: 0.974. Training.
+[INFO] AgentTesting. Step: 1725000. Time Elapsed: 2945.312 s. Mean Reward: 2.365. Std of Reward: 1.112. Training.
+[INFO] AgentTesting. Step: 1750000. Time Elapsed: 3019.845 s. Mean Reward: 1.998. Std of Reward: 1.251. Training.
+[INFO] AgentTesting. Step: 1775000. Time Elapsed: 3088.631 s. Mean Reward: 2.130. Std of Reward: 1.164. Training.
+[INFO] Parameter 'lesson' is in lesson 'Lesson_6' and has value 'Float: value=1.6'.
+[INFO] AgentTesting. Step: 1800000. Time Elapsed: 3155.272 s. Mean Reward: 2.229. Std of Reward: 1.337. Training.
+[INFO] AgentTesting. Step: 1825000. Time Elapsed: 3220.913 s. Mean Reward: 2.509. Std of Reward: 0.978. Training.
+[INFO] AgentTesting. Step: 1850000. Time Elapsed: 3283.570 s. Mean Reward: 2.563. Std of Reward: 0.826. Training.
+[INFO] AgentTesting. Step: 1875000. Time Elapsed: 3350.855 s. Mean Reward: 2.727. Std of Reward: 0.566. Training.
+[INFO] Parameter 'lesson' is in lesson 'Lesson_7' and has value 'Float: value=1.7'.
+[INFO] AgentTesting. Step: 1900000. Time Elapsed: 3416.864 s. Mean Reward: 2.711. Std of Reward: 0.570. Training.
+[INFO] AgentTesting. Step: 1925000. Time Elapsed: 3484.137 s. Mean Reward: 2.256. Std of Reward: 1.122. Training.
+[INFO] AgentTesting. Step: 1950000. Time Elapsed: 3548.158 s. Mean Reward: 2.846. Std of Reward: 0.441. Training.
+[INFO] AgentTesting. Step: 1975000. Time Elapsed: 3611.344 s. Mean Reward: 2.777. Std of Reward: 0.762. Training.
+[INFO] Parameter 'lesson' is in lesson 'Lesson_8' and has value 'Float: value=1.8'.
+[INFO] AgentTesting. Step: 2000000. Time Elapsed: 3678.047 s. Mean Reward: 2.609. Std of Reward: 1.050. Training.
+[INFO] Exported results\complete_drl_v5\AgentTesting\AgentTesting-1999963.onnx
+[INFO] AgentTesting. Step: 2025000. Time Elapsed: 3745.261 s. Mean Reward: 2.557. Std of Reward: 1.038. Training.
+[INFO] AgentTesting. Step: 2050000. Time Elapsed: 3818.216 s. Mean Reward: 2.669. Std of Reward: 0.918. Training.
+[INFO] AgentTesting. Step: 2075000. Time Elapsed: 3883.125 s. Mean Reward: 2.089. Std of Reward: 1.135. Training.
+[INFO] Parameter 'lesson' is in lesson 'Lesson_9' and has value 'Float: value=1.9'.
+[INFO] AgentTesting. Step: 2100000. Time Elapsed: 3956.940 s. Mean Reward: 2.037. Std of Reward: 1.435. Training.
+[INFO] AgentTesting. Step: 2125000. Time Elapsed: 4012.814 s. Mean Reward: 2.692. Std of Reward: 0.745. Training.
+[INFO] AgentTesting. Step: 2150000. Time Elapsed: 4078.411 s. Mean Reward: 1.752. Std of Reward: 1.456. Training.
+[INFO] AgentTesting. Step: 2175000. Time Elapsed: 4155.795 s. Mean Reward: 1.656. Std of Reward: 1.528. Training.
+[INFO] Parameter 'lesson' is in lesson 'Lesson_10' and has value 'Float: value=2.1'.
+[INFO] AgentTesting. Step: 2200000. Time Elapsed: 4221.303 s. Mean Reward: 1.945. Std of Reward: 1.217. Training.
+[INFO] AgentTesting. Step: 2225000. Time Elapsed: 4278.007 s. Mean Reward: 1.690. Std of Reward: 0.859. Training.
+[INFO] Parameter 'lesson' is in lesson 'Lesson_11' and has value 'Float: value=2.2'.
+[INFO] AgentTesting. Step: 2250000. Time Elapsed: 4318.709 s. Mean Reward: 0.694. Std of Reward: 0.897. Training.
+[INFO] AgentTesting. Step: 2275000. Time Elapsed: 4363.140 s. Mean Reward: 0.950. Std of Reward: 0.731. Training.
+[INFO] Parameter 'lesson' is in lesson 'Lesson_12' and has value 'Float: value=2.3'.
+[INFO] AgentTesting. Step: 2300000. Time Elapsed: 4404.252 s. Mean Reward: 0.608. Std of Reward: 0.908. Training.
+[INFO] AgentTesting. Step: 2325000. Time Elapsed: 4445.013 s. Mean Reward: 0.822. Std of Reward: 0.923. Training.
+[INFO] Parameter 'lesson' is in lesson 'Lesson_13' and has value 'Float: value=2.4'.
+[INFO] AgentTesting. Step: 2350000. Time Elapsed: 4490.696 s. Mean Reward: 1.187. Std of Reward: 0.638. Training.
+[INFO] AgentTesting. Step: 2375000. Time Elapsed: 4534.055 s. Mean Reward: 0.851. Std of Reward: 0.982. Training.
+[INFO] Parameter 'lesson' is in lesson 'Lesson_14' and has value 'Float: value=2.5'.
+[INFO] AgentTesting. Step: 2400000. Time Elapsed: 4580.371 s. Mean Reward: 0.622. Std of Reward: 1.011. Training.
+[INFO] AgentTesting. Step: 2425000. Time Elapsed: 4623.478 s. Mean Reward: 0.639. Std of Reward: 0.974. Training.
+[INFO] AgentTesting. Step: 2450000. Time Elapsed: 4687.248 s. Mean Reward: 0.322. Std of Reward: 1.078. Training.
+[INFO] AgentTesting. Step: 2475000. Time Elapsed: 4756.505 s. Mean Reward: 0.215. Std of Reward: 1.046. Training.
+[INFO] AgentTesting. Step: 2500000. Time Elapsed: 4823.810 s. Mean Reward: 0.416. Std of Reward: 0.956. Training.
+[INFO] Exported results\complete_drl_v5\AgentTesting\AgentTesting-2499992.onnx
+[INFO] AgentTesting. Step: 2525000. Time Elapsed: 4890.407 s. Mean Reward: 0.483. Std of Reward: 0.985. Training.
+[INFO] AgentTesting. Step: 2550000. Time Elapsed: 4947.986 s. Mean Reward: 0.324. Std of Reward: 1.082. Training.
+[INFO] AgentTesting. Step: 2575000. Time Elapsed: 5013.128 s. Mean Reward: 0.186. Std of Reward: 0.966. Training.
+[INFO] AgentTesting. Step: 2600000. Time Elapsed: 5077.813 s. Mean Reward: 0.287. Std of Reward: 1.100. Training.
+[INFO] AgentTesting. Step: 2625000. Time Elapsed: 5150.469 s. Mean Reward: 0.433. Std of Reward: 0.975. Training.
+[INFO] AgentTesting. Step: 2650000. Time Elapsed: 5222.980 s. Mean Reward: 0.139. Std of Reward: 0.966. Training.
+[INFO] AgentTesting. Step: 2675000. Time Elapsed: 5290.318 s. Mean Reward: 0.512. Std of Reward: 0.956. Training.
+[INFO] AgentTesting. Step: 2700000. Time Elapsed: 5361.879 s. Mean Reward: 0.605. Std of Reward: 0.952. Training.
+[INFO] AgentTesting. Step: 2725000. Time Elapsed: 5431.117 s. Mean Reward: 0.290. Std of Reward: 1.002. Training.
+[INFO] AgentTesting. Step: 2750000. Time Elapsed: 5498.016 s. Mean Reward: 0.094. Std of Reward: 0.916. Training.
+[INFO] AgentTesting. Step: 2775000. Time Elapsed: 5570.727 s. Mean Reward: 0.372. Std of Reward: 1.013. Training.
+[INFO] AgentTesting. Step: 2800000. Time Elapsed: 5628.651 s. Mean Reward: 0.231. Std of Reward: 1.031. Training.
+[INFO] AgentTesting. Step: 2825000. Time Elapsed: 5679.106 s. Mean Reward: 0.368. Std of Reward: 0.882. Training.
+[INFO] AgentTesting. Step: 2850000. Time Elapsed: 5739.923 s. Mean Reward: 0.597. Std of Reward: 0.978. Training.
+[INFO] AgentTesting. Step: 2875000. Time Elapsed: 5799.353 s. Mean Reward: 0.150. Std of Reward: 0.956. Training.
+[INFO] AgentTesting. Step: 2900000. Time Elapsed: 5850.929 s. Mean Reward: 0.620. Std of Reward: 0.925. Training.
+[INFO] AgentTesting. Step: 2925000. Time Elapsed: 5906.749 s. Mean Reward: 0.249. Std of Reward: 0.935. Training.
+[INFO] AgentTesting. Step: 2950000. Time Elapsed: 5979.472 s. Mean Reward: 0.597. Std of Reward: 1.050. Training.
+[INFO] AgentTesting. Step: 2975000. Time Elapsed: 6067.415 s. Mean Reward: 0.323. Std of Reward: 0.972. Training.
+[INFO] AgentTesting. Step: 3000000. Time Elapsed: 6150.660 s. Mean Reward: 0.752. Std of Reward: 0.907. Training.
+[INFO] Exported results\complete_drl_v5\AgentTesting\AgentTesting-2999950.onnx
+[INFO] AgentTesting. Step: 3025000. Time Elapsed: 6234.640 s. Mean Reward: 1.149. Std of Reward: 0.830. Training.
+[INFO] AgentTesting. Step: 3050000. Time Elapsed: 6307.497 s. Mean Reward: 0.451. Std of Reward: 0.988. Training.
+[INFO] AgentTesting. Step: 3075000. Time Elapsed: 6366.937 s. Mean Reward: 0.761. Std of Reward: 1.117. Training.
+[INFO] Parameter 'lesson' is in lesson 'Lesson_15' and has value 'Float: value=2.6'.
+[INFO] AgentTesting. Step: 3100000. Time Elapsed: 6429.514 s. Mean Reward: 0.934. Std of Reward: 0.904. Training.
+[INFO] AgentTesting. Step: 3125000. Time Elapsed: 6487.882 s. Mean Reward: 0.638. Std of Reward: 1.043. Training.
+[INFO] AgentTesting. Step: 3150000. Time Elapsed: 6549.492 s. Mean Reward: 0.476. Std of Reward: 1.001. Training.
+[INFO] AgentTesting. Step: 3175000. Time Elapsed: 6607.112 s. Mean Reward: 0.952. Std of Reward: 0.811. Training.
+[INFO] AgentTesting. Step: 3200000. Time Elapsed: 6673.975 s. Mean Reward: 0.362. Std of Reward: 1.105. Training.
+[INFO] AgentTesting. Step: 3225000. Time Elapsed: 6738.438 s. Mean Reward: 0.825. Std of Reward: 0.817. Training.
+[INFO] AgentTesting. Step: 3250000. Time Elapsed: 6800.160 s. Mean Reward: 0.896. Std of Reward: 0.793. Training.
+[INFO] Parameter 'lesson' is in lesson 'Lesson_16' and has value 'Float: value=2.7'.
+[INFO] AgentTesting. Step: 3275000. Time Elapsed: 6880.340 s. Mean Reward: 0.861. Std of Reward: 0.803. Training.
+[INFO] AgentTesting. Step: 3300000. Time Elapsed: 6961.648 s. Mean Reward: 0.675. Std of Reward: 0.993. Training.
+[INFO] AgentTesting. Step: 3325000. Time Elapsed: 7028.593 s. Mean Reward: 0.569. Std of Reward: 0.987. Training.
+[INFO] AgentTesting. Step: 3350000. Time Elapsed: 7086.863 s. Mean Reward: 0.400. Std of Reward: 1.054. Training.
+[INFO] AgentTesting. Step: 3375000. Time Elapsed: 7152.360 s. Mean Reward: 0.793. Std of Reward: 0.921. Training.
+[INFO] AgentTesting. Step: 3400000. Time Elapsed: 7211.106 s. Mean Reward: 0.775. Std of Reward: 0.894. Training.
+[INFO] AgentTesting. Step: 3425000. Time Elapsed: 7270.811 s. Mean Reward: 0.497. Std of Reward: 0.997. Training.
+[INFO] AgentTesting. Step: 3450000. Time Elapsed: 7345.644 s. Mean Reward: 0.630. Std of Reward: 0.903. Training.
+[INFO] AgentTesting. Step: 3475000. Time Elapsed: 7401.214 s. Mean Reward: 0.705. Std of Reward: 0.884. Training.
+[INFO] AgentTesting. Step: 3500000. Time Elapsed: 7462.619 s. Mean Reward: 0.718. Std of Reward: 0.875. Training.
+[INFO] Exported results\complete_drl_v5\AgentTesting\AgentTesting-3499955.onnx
+[INFO] AgentTesting. Step: 3525000. Time Elapsed: 7526.818 s. Mean Reward: 0.680. Std of Reward: 0.866. Training.
+[INFO] AgentTesting. Step: 3550000. Time Elapsed: 7593.433 s. Mean Reward: 0.656. Std of Reward: 0.920. Training.
+[INFO] AgentTesting. Step: 3575000. Time Elapsed: 7639.190 s. Mean Reward: 0.625. Std of Reward: 0.916. Training.
+[INFO] AgentTesting. Step: 3600000. Time Elapsed: 7681.543 s. Mean Reward: 0.738. Std of Reward: 0.881. Training.
+[INFO] AgentTesting. Step: 3625000. Time Elapsed: 7734.100 s. Mean Reward: 0.804. Std of Reward: 0.837. Training.
+[INFO] Parameter 'lesson' is in lesson 'Lesson_17' and has value 'Float: value=2.8'.
+[INFO] AgentTesting. Step: 3650000. Time Elapsed: 7791.917 s. Mean Reward: 0.869. Std of Reward: 0.992. Training.
+[INFO] AgentTesting. Step: 3675000. Time Elapsed: 7844.172 s. Mean Reward: 0.208. Std of Reward: 1.211. Training.
+[INFO] AgentTesting. Step: 3700000. Time Elapsed: 7890.253 s. Mean Reward: 0.420. Std of Reward: 1.020. Training.
+[INFO] AgentTesting. Step: 3725000. Time Elapsed: 7941.666 s. Mean Reward: 0.601. Std of Reward: 1.092. Training.
+[INFO] AgentTesting. Step: 3750000. Time Elapsed: 7992.710 s. Mean Reward: 0.539. Std of Reward: 0.988. Training.
+[INFO] AgentTesting. Step: 3775000. Time Elapsed: 8041.665 s. Mean Reward: 0.205. Std of Reward: 0.959. Training.
+[INFO] AgentTesting. Step: 3800000. Time Elapsed: 8091.436 s. Mean Reward: 0.459. Std of Reward: 1.068. Training.
+[INFO] AgentTesting. Step: 3825000. Time Elapsed: 8137.540 s. Mean Reward: 0.763. Std of Reward: 0.895. Training.
+[INFO] AgentTesting. Step: 3850000. Time Elapsed: 8198.008 s. Mean Reward: 0.651. Std of Reward: 0.977. Training.
+[INFO] AgentTesting. Step: 3875000. Time Elapsed: 8257.491 s. Mean Reward: 0.877. Std of Reward: 0.789. Training.
+[INFO] AgentTesting. Step: 3900000. Time Elapsed: 8320.052 s. Mean Reward: 0.719. Std of Reward: 0.942. Training.
+[INFO] AgentTesting. Step: 3925000. Time Elapsed: 8369.590 s. Mean Reward: 0.788. Std of Reward: 0.906. Training.
+[INFO] AgentTesting. Step: 3950000. Time Elapsed: 8429.361 s. Mean Reward: 0.320. Std of Reward: 1.097. Training.
+[INFO] AgentTesting. Step: 3975000. Time Elapsed: 8480.546 s. Mean Reward: 0.611. Std of Reward: 1.057. Training.
+[INFO] AgentTesting. Step: 4000000. Time Elapsed: 8535.520 s. Mean Reward: 0.681. Std of Reward: 0.974. Training.
+[INFO] Exported results\complete_drl_v5\AgentTesting\AgentTesting-3999995.onnx
+[INFO] AgentTesting. Step: 4025000. Time Elapsed: 8585.252 s. Mean Reward: 0.685. Std of Reward: 1.023. Training.
+[INFO] AgentTesting. Step: 4050000. Time Elapsed: 8629.665 s. Mean Reward: 0.781. Std of Reward: 0.921. Training.
+[INFO] Parameter 'lesson' is in lesson 'Lesson_18' and has value 'Float: value=2.9'.
+[INFO] AgentTesting. Step: 4075000. Time Elapsed: 8684.084 s. Mean Reward: 0.963. Std of Reward: 0.796. Training.
+[INFO] AgentTesting. Step: 4100000. Time Elapsed: 8731.418 s. Mean Reward: 0.731. Std of Reward: 0.972. Training.
+[INFO] AgentTesting. Step: 4125000. Time Elapsed: 8776.317 s. Mean Reward: 0.551. Std of Reward: 1.048. Training.
+[INFO] AgentTesting. Step: 4150000. Time Elapsed: 8831.308 s. Mean Reward: 0.714. Std of Reward: 0.996. Training.
+[INFO] Parameter 'lesson' is in lesson 'Lesson_19' and has value 'Float: value=3.1'.
+[INFO] AgentTesting. Step: 4175000. Time Elapsed: 8891.951 s. Mean Reward: 0.850. Std of Reward: 0.846. Training.
+[INFO] AgentTesting. Step: 4200000. Time Elapsed: 8944.104 s. Mean Reward: 0.593. Std of Reward: 0.823. Training.
+[INFO] AgentTesting. Step: 4225000. Time Elapsed: 8991.331 s. Mean Reward: 0.487. Std of Reward: 0.793. Training.
+[INFO] AgentTesting. Step: 4250000. Time Elapsed: 9038.070 s. Mean Reward: 0.526. Std of Reward: 0.847. Training.
+[INFO] AgentTesting. Step: 4275000. Time Elapsed: 9081.848 s. Mean Reward: 0.561. Std of Reward: 0.817. Training.
+[INFO] AgentTesting. Step: 4300000. Time Elapsed: 9126.696 s. Mean Reward: 0.580. Std of Reward: 0.819. Training.
+[INFO] AgentTesting. Step: 4325000. Time Elapsed: 9173.319 s. Mean Reward: 0.582. Std of Reward: 0.835. Training.
+[INFO] AgentTesting. Step: 4350000. Time Elapsed: 9217.342 s. Mean Reward: 0.648. Std of Reward: 0.782. Training.
+[INFO] AgentTesting. Step: 4375000. Time Elapsed: 9264.052 s. Mean Reward: 0.474. Std of Reward: 0.831. Training.
+[INFO] AgentTesting. Step: 4400000. Time Elapsed: 9308.426 s. Mean Reward: 0.664. Std of Reward: 0.727. Training.
+[INFO] AgentTesting. Step: 4425000. Time Elapsed: 9355.027 s. Mean Reward: 0.588. Std of Reward: 0.782. Training.
+[INFO] AgentTesting. Step: 4450000. Time Elapsed: 9398.723 s. Mean Reward: 0.671. Std of Reward: 0.761. Training.
+[INFO] AgentTesting. Step: 4475000. Time Elapsed: 9442.915 s. Mean Reward: 0.675. Std of Reward: 0.770. Training.
+[INFO] AgentTesting. Step: 4500000. Time Elapsed: 9489.345 s. Mean Reward: 0.621. Std of Reward: 0.804. Training.
+[INFO] Exported results\complete_drl_v5\AgentTesting\AgentTesting-4499980.onnx
+[INFO] AgentTesting. Step: 4525000. Time Elapsed: 9533.472 s. Mean Reward: 0.674. Std of Reward: 0.728. Training.
+[INFO] AgentTesting. Step: 4550000. Time Elapsed: 9581.569 s. Mean Reward: 0.626. Std of Reward: 0.754. Training.
+[INFO] AgentTesting. Step: 4575000. Time Elapsed: 9625.911 s. Mean Reward: 0.666. Std of Reward: 0.782. Training.
+[INFO] AgentTesting. Step: 4600000. Time Elapsed: 9673.670 s. Mean Reward: 0.670. Std of Reward: 0.812. Training.
+[INFO] AgentTesting. Step: 4625000. Time Elapsed: 9718.061 s. Mean Reward: 0.722. Std of Reward: 0.703. Training.
+[INFO] AgentTesting. Step: 4650000. Time Elapsed: 9762.275 s. Mean Reward: 0.694. Std of Reward: 0.764. Training.
+[INFO] AgentTesting. Step: 4675000. Time Elapsed: 9809.148 s. Mean Reward: 0.734. Std of Reward: 0.685. Training.
+[INFO] Parameter 'lesson' is in lesson 'Lesson_20' and has value 'Float: value=3.2'.
+[INFO] AgentTesting. Step: 4700000. Time Elapsed: 9852.582 s. Mean Reward: 0.732. Std of Reward: 0.694. Training.
+[INFO] AgentTesting. Step: 4725000. Time Elapsed: 9898.183 s. Mean Reward: 0.646. Std of Reward: 0.855. Training.
+[INFO] AgentTesting. Step: 4750000. Time Elapsed: 9942.067 s. Mean Reward: 0.579. Std of Reward: 0.861. Training.
+[INFO] AgentTesting. Step: 4775000. Time Elapsed: 9986.910 s. Mean Reward: 0.373. Std of Reward: 0.993. Training.
+[INFO] AgentTesting. Step: 4800000. Time Elapsed: 10031.493 s. Mean Reward: 0.611. Std of Reward: 0.881. Training.
+[INFO] AgentTesting. Step: 4825000. Time Elapsed: 10082.346 s. Mean Reward: 0.671. Std of Reward: 0.834. Training.
+[INFO] AgentTesting. Step: 4850000. Time Elapsed: 10127.736 s. Mean Reward: 0.565. Std of Reward: 0.928. Training.
+[INFO] AgentTesting. Step: 4875000. Time Elapsed: 10166.015 s. Mean Reward: 0.683. Std of Reward: 0.831. Training.
+[INFO] Parameter 'lesson' is in lesson 'Lesson_21' and has value 'Float: value=3.3'.
+[INFO] AgentTesting. Step: 4900000. Time Elapsed: 10221.894 s. Mean Reward: 0.990. Std of Reward: 0.666. Training.
+[INFO] Parameter 'lesson' is in lesson 'Lesson_22' and has value 'Float: value=3.4'.
+[INFO] AgentTesting. Step: 4925000. Time Elapsed: 10270.202 s. Mean Reward: 1.089. Std of Reward: 0.589. Training.
+[INFO] Parameter 'lesson' is in lesson 'Lesson_23' and has value 'Float: value=3.5'.
+[INFO] AgentTesting. Step: 4950000. Time Elapsed: 10331.922 s. Mean Reward: 0.759. Std of Reward: 0.992. Training.
+[INFO] AgentTesting. Step: 4975000. Time Elapsed: 10403.483 s. Mean Reward: 0.274. Std of Reward: 1.128. Training.
+[INFO] AgentTesting. Step: 5000000. Time Elapsed: 10477.167 s. Mean Reward: 0.355. Std of Reward: 1.034. Training.
+[INFO] Exported results\complete_drl_v5\AgentTesting\AgentTesting-4999984.onnx
+[INFO] AgentTesting. Step: 5025000. Time Elapsed: 10523.600 s. Mean Reward: 0.672. Std of Reward: 1.071. Training.
+[INFO] AgentTesting. Step: 5050000. Time Elapsed: 10569.653 s. Mean Reward: -0.382. Std of Reward: 1.034. Training.
+[INFO] AgentTesting. Step: 5075000. Time Elapsed: 10630.966 s. Mean Reward: -0.022. Std of Reward: 0.980. Training.
+[INFO] AgentTesting. Step: 5100000. Time Elapsed: 10681.849 s. Mean Reward: 0.686. Std of Reward: 0.855. Training.
+[INFO] AgentTesting. Step: 5125000. Time Elapsed: 10746.028 s. Mean Reward: 0.145. Std of Reward: 1.071. Training.
+[INFO] AgentTesting. Step: 5150000. Time Elapsed: 10794.152 s. Mean Reward: -0.091. Std of Reward: 0.966. Training.
+[INFO] AgentTesting. Step: 5175000. Time Elapsed: 10845.833 s. Mean Reward: 0.298. Std of Reward: 0.938. Training.
+[INFO] AgentTesting. Step: 5200000. Time Elapsed: 10904.205 s. Mean Reward: 0.469. Std of Reward: 0.992. Training.
+[INFO] AgentTesting. Step: 5225000. Time Elapsed: 10955.341 s. Mean Reward: 0.287. Std of Reward: 0.915. Training.
+[INFO] AgentTesting. Step: 5250000. Time Elapsed: 11010.715 s. Mean Reward: 0.345. Std of Reward: 0.922. Training.
+[INFO] AgentTesting. Step: 5275000. Time Elapsed: 11068.125 s. Mean Reward: 0.454. Std of Reward: 1.016. Training.
+[INFO] AgentTesting. Step: 5300000. Time Elapsed: 11127.805 s. Mean Reward: 0.667. Std of Reward: 0.865. Training.
+[INFO] AgentTesting. Step: 5325000. Time Elapsed: 11211.992 s. Mean Reward: 0.562. Std of Reward: 0.844. Training.
+[INFO] AgentTesting. Step: 5350000. Time Elapsed: 11313.232 s. Mean Reward: 0.306. Std of Reward: 1.025. Training.
+[INFO] AgentTesting. Step: 5375000. Time Elapsed: 11430.904 s. Mean Reward: 0.176. Std of Reward: 0.958. Training.
+[INFO] AgentTesting. Step: 5400000. Time Elapsed: 11514.073 s. Mean Reward: 0.303. Std of Reward: 0.951. Training.
+[INFO] AgentTesting. Step: 5425000. Time Elapsed: 11602.411 s. Mean Reward: 0.224. Std of Reward: 0.877. Training.
+[INFO] AgentTesting. Step: 5450000. Time Elapsed: 11691.953 s. Mean Reward: 0.475. Std of Reward: 0.896. Training.
+[INFO] AgentTesting. Step: 5475000. Time Elapsed: 11795.549 s. Mean Reward: 0.068. Std of Reward: 0.965. Training.
+[INFO] AgentTesting. Step: 5500000. Time Elapsed: 11854.933 s. Mean Reward: 0.284. Std of Reward: 0.992. Training.
+[INFO] Exported results\complete_drl_v5\AgentTesting\AgentTesting-5499953.onnx
+[INFO] AgentTesting. Step: 5525000. Time Elapsed: 11903.206 s. Mean Reward: 0.339. Std of Reward: 1.218. Training.
+[INFO] AgentTesting. Step: 5550000. Time Elapsed: 11956.265 s. Mean Reward: 0.730. Std of Reward: 1.001. Training.
+[INFO] AgentTesting. Step: 5575000. Time Elapsed: 12010.223 s. Mean Reward: 0.249. Std of Reward: 1.024. Training.
+[INFO] AgentTesting. Step: 5600000. Time Elapsed: 12081.247 s. Mean Reward: 0.866. Std of Reward: 0.838. Training.
+[INFO] AgentTesting. Step: 5625000. Time Elapsed: 12135.985 s. Mean Reward: 0.331. Std of Reward: 0.971. Training.
+[INFO] AgentTesting. Step: 5650000. Time Elapsed: 12190.632 s. Mean Reward: -0.016. Std of Reward: 1.018. Training.
+[INFO] AgentTesting. Step: 5675000. Time Elapsed: 12244.921 s. Mean Reward: 0.706. Std of Reward: 0.751. Training.
+[INFO] AgentTesting. Step: 5700000. Time Elapsed: 12303.136 s. Mean Reward: 0.722. Std of Reward: 0.902. Training.
+[INFO] AgentTesting. Step: 5725000. Time Elapsed: 12378.823 s. Mean Reward: 0.515. Std of Reward: 0.786. Training.
+[INFO] AgentTesting. Step: 5750000. Time Elapsed: 12465.465 s. Mean Reward: 0.624. Std of Reward: 0.949. Training.
+[INFO] AgentTesting. Step: 5775000. Time Elapsed: 12549.395 s. Mean Reward: 0.783. Std of Reward: 0.849. Training.
+[INFO] AgentTesting. Step: 5800000. Time Elapsed: 12599.634 s. Mean Reward: 0.466. Std of Reward: 1.090. Training.
+[INFO] AgentTesting. Step: 5825000. Time Elapsed: 12657.165 s. Mean Reward: 0.793. Std of Reward: 0.987. Training.
+[INFO] AgentTesting. Step: 5850000. Time Elapsed: 12710.915 s. Mean Reward: 0.828. Std of Reward: 0.859. Training.
+[INFO] AgentTesting. Step: 5875000. Time Elapsed: 12758.474 s. Mean Reward: 0.678. Std of Reward: 0.858. Training.
+[INFO] AgentTesting. Step: 5900000. Time Elapsed: 12832.643 s. Mean Reward: 0.620. Std of Reward: 1.045. Training.
+[INFO] AgentTesting. Step: 5925000. Time Elapsed: 12880.110 s. Mean Reward: 0.883. Std of Reward: 0.785. Training.
+[INFO] AgentTesting. Step: 5950000. Time Elapsed: 12931.779 s. Mean Reward: 0.389. Std of Reward: 1.078. Training.
+[INFO] AgentTesting. Step: 5975000. Time Elapsed: 12991.820 s. Mean Reward: 0.623. Std of Reward: 0.988. Training.
+[INFO] AgentTesting. Step: 6000000. Time Elapsed: 13046.105 s. Mean Reward: 0.844. Std of Reward: 0.891. Training.
+[INFO] Exported results\complete_drl_v5\AgentTesting\AgentTesting-5999948.onnx
+[INFO] Parameter 'lesson' is in lesson 'Lesson_24' and has value 'Float: value=3.6'.
+[INFO] AgentTesting. Step: 6025000. Time Elapsed: 13123.302 s. Mean Reward: 1.153. Std of Reward: 0.638. Training.
+[INFO] AgentTesting. Step: 6050000. Time Elapsed: 13208.202 s. Mean Reward: 0.825. Std of Reward: 0.806. Training.
+[INFO] AgentTesting. Step: 6075000. Time Elapsed: 13250.839 s. Mean Reward: 0.415. Std of Reward: 1.058. Training.
+[INFO] AgentTesting. Step: 6100000. Time Elapsed: 13318.792 s. Mean Reward: 0.684. Std of Reward: 1.039. Training.
+[INFO] AgentTesting. Step: 6125000. Time Elapsed: 13384.916 s. Mean Reward: 0.810. Std of Reward: 1.043. Training.
+[INFO] Parameter 'lesson' is in lesson 'Lesson_25' and has value 'Float: value=3.7'.
+[INFO] AgentTesting. Step: 6150000. Time Elapsed: 13427.580 s. Mean Reward: 1.054. Std of Reward: 0.552. Training.
+[INFO] AgentTesting. Step: 6175000. Time Elapsed: 13535.095 s. Mean Reward: 0.721. Std of Reward: 1.035. Training.
+[INFO] AgentTesting. Step: 6200000. Time Elapsed: 13660.849 s. Mean Reward: 0.427. Std of Reward: 1.085. Training.
+[INFO] AgentTesting. Step: 6225000. Time Elapsed: 13783.955 s. Mean Reward: 0.337. Std of Reward: 0.966. Training.
+[INFO] AgentTesting. Step: 6250000. Time Elapsed: 13907.869 s. Mean Reward: 0.546. Std of Reward: 0.935. Training.
+[INFO] AgentTesting. Step: 6275000. Time Elapsed: 14036.623 s. Mean Reward: 0.403. Std of Reward: 1.081. Training.
+[INFO] AgentTesting. Step: 6300000. Time Elapsed: 14149.254 s. Mean Reward: 0.551. Std of Reward: 1.033. Training.
+[INFO] AgentTesting. Step: 6325000. Time Elapsed: 14272.908 s. Mean Reward: 0.751. Std of Reward: 1.108. Training.
+[INFO] AgentTesting. Step: 6350000. Time Elapsed: 14402.178 s. Mean Reward: 0.256. Std of Reward: 1.141. Training.
+[INFO] AgentTesting. Step: 6375000. Time Elapsed: 14445.488 s. Mean Reward: 0.272. Std of Reward: 1.138. Training.
+[INFO] AgentTesting. Step: 6400000. Time Elapsed: 14490.916 s. Mean Reward: 0.150. Std of Reward: 1.032. Training.
+[INFO] AgentTesting. Step: 6425000. Time Elapsed: 14557.262 s. Mean Reward: 0.149. Std of Reward: 1.129. Training.
+[INFO] AgentTesting. Step: 6450000. Time Elapsed: 14631.698 s. Mean Reward: 0.366. Std of Reward: 1.109. Training.
+[INFO] AgentTesting. Step: 6475000. Time Elapsed: 14694.188 s. Mean Reward: 0.024. Std of Reward: 1.052. Training.
+[INFO] AgentTesting. Step: 6500000. Time Elapsed: 14758.858 s. Mean Reward: 0.268. Std of Reward: 1.101. Training.
+[INFO] Exported results\complete_drl_v5\AgentTesting\AgentTesting-6499997.onnx
+[INFO] AgentTesting. Step: 6525000. Time Elapsed: 14838.030 s. Mean Reward: 0.236. Std of Reward: 1.157. Training.
+[INFO] AgentTesting. Step: 6550000. Time Elapsed: 14917.312 s. Mean Reward: 0.442. Std of Reward: 1.067. Training.
+[INFO] AgentTesting. Step: 6575000. Time Elapsed: 14983.672 s. Mean Reward: 0.423. Std of Reward: 1.099. Training.
+[INFO] AgentTesting. Step: 6600000. Time Elapsed: 15036.611 s. Mean Reward: 0.383. Std of Reward: 1.273. Training.
+[INFO] AgentTesting. Step: 6625000. Time Elapsed: 15093.994 s. Mean Reward: 0.701. Std of Reward: 0.921. Training.
+[INFO] AgentTesting. Step: 6650000. Time Elapsed: 15156.091 s. Mean Reward: 0.959. Std of Reward: 0.922. Training.
+[INFO] Parameter 'lesson' is in lesson 'Lesson_26' and has value 'Float: value=3.8'.
+[INFO] AgentTesting. Step: 6675000. Time Elapsed: 15233.580 s. Mean Reward: 0.933. Std of Reward: 0.811. Training.
+[INFO] AgentTesting. Step: 6700000. Time Elapsed: 15310.889 s. Mean Reward: 1.052. Std of Reward: 0.923. Training.
+[INFO] AgentTesting. Step: 6725000. Time Elapsed: 15426.189 s. Mean Reward: 0.696. Std of Reward: 0.878. Training.
+[INFO] Parameter 'lesson' is in lesson 'Lesson_27' and has value 'Float: value=3.9'.
+[INFO] AgentTesting. Step: 6750000. Time Elapsed: 15502.045 s. Mean Reward: 0.988. Std of Reward: 0.861. Training.
+[INFO] AgentTesting. Step: 6775000. Time Elapsed: 15575.482 s. Mean Reward: 0.602. Std of Reward: 1.254. Training.
+[INFO] AgentTesting. Step: 6800000. Time Elapsed: 15633.644 s. Mean Reward: 0.779. Std of Reward: 1.099. Training.
+[INFO] AgentTesting. Step: 6825000. Time Elapsed: 15716.908 s. Mean Reward: 0.681. Std of Reward: 1.024. Training.
+[INFO] AgentTesting. Step: 6850000. Time Elapsed: 15760.934 s. Mean Reward: 0.923. Std of Reward: 1.008. Training.
+[INFO] AgentTesting. Step: 6875000. Time Elapsed: 15871.630 s. Mean Reward: 0.560. Std of Reward: 1.112. Training.
+[INFO] AgentTesting. Step: 6900000. Time Elapsed: 15953.495 s. Mean Reward: 0.957. Std of Reward: 0.731. Training.
+[INFO] AgentTesting. Step: 6925000. Time Elapsed: 16003.347 s. Mean Reward: 0.710. Std of Reward: 1.088. Training.
+[INFO] AgentTesting. Step: 6950000. Time Elapsed: 16054.664 s. Mean Reward: 0.775. Std of Reward: 0.944. Training.
+[INFO] AgentTesting. Step: 6975000. Time Elapsed: 16103.221 s. Mean Reward: 0.824. Std of Reward: 0.937. Training.
+[INFO] AgentTesting. Step: 7000000. Time Elapsed: 16148.737 s. Mean Reward: 0.714. Std of Reward: 1.054. Training.
