@@ -6,8 +6,6 @@ Este es el Trabajo Final de Máster (TFM) del Máster en Inteligencia Artificial
 
 Este trabajo investiga la aplicación del Aprendizaje por Refuerzo Profundo (DRL) y la Transferencia de Conocimiento (KT) en la logística de almacenes, utilizando Unity y ML-Agents. Los resultados muestran que KT mejora el rendimiento y la eficiencia del aprendizaje, permitiendo a los agentes completar tareas de manera más rápida y estable.
 
-El trabajo futuro incluye la integración de sensores avanzados, optimización de hiperparámetros, validación en entornos reales, desarrollo de políticas de aprendizaje continuo, colaboración entre múltiples agentes y la inclusión de factores económicos y de eficiencia energética.
-
 ## Instalación y configuración del entorno de trabajo
 
 ### Herramientas Necesarias
